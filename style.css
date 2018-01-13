@@ -1,0 +1,50 @@
+p {
+    font-size: 20px;
+}
+body {
+    background-color: rgba(252, 98, 219,0.3);
+}
+h2 {
+    color: white;
+}
+p {
+    color: navy;
+}
+p {
+    border: 1px white;
+}
+body {
+	font font-family: sans-serif;
+	line-height: 1.16em;
+	text-align: center;
+ }
+
+ .circle {
+	width: 100px;
+	height: 100px;
+	background: red;
+	border-radius: 50px;
+}
+
+body {
+    background-image: url("http://www.telegraph.co.uk/content/dam/Travel/Tours/New%20York1.jpg?imwidth=1400");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+
+.circlepositionstatic {
+	background: white;
+}
+
+.text-container {
+    text-align: center;
+}
+.container {
+	display:inline-block;
+	max-width-width: 30%;
+}
+img {
+	width: 10%
+}
