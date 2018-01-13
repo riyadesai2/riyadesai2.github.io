@@ -1,0 +1,12 @@
+h4 {
+	color: white;
+}
+ .circlepositionstatic {
+	width: 80px;
+	height: 80px;
+	background: white;
+	border-radius: 400px;
+	margin-top: 680px;
+	margin-left: 10px;
+	position: fixed;
+}
